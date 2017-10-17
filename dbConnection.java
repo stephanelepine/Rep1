@@ -1,6 +1,7 @@
+//modif seb
 package cmindicators.java.com.airbushelicopter.dbAPI;
 
-import java.io.File;
+import java.io.FileSEB; // modif
 import java.math.BigInteger;
 import java.security.SecureRandom;
 import java.sql.Connection;
